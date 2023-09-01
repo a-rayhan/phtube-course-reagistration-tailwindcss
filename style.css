@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.bg-gray-c{
+    background-color: rgba(37, 37, 37, 0.20);
+}
+
+.video-relased{
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+}
